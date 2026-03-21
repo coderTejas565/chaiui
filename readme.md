@@ -79,10 +79,10 @@ chai-rounded-8
 
 ## Getting Started
 1. Clone the repo
-git clone https://github.com/your-username/chaiui.git
+git clone https://github.com/coderTejas565/chaiui.git
 
 2. Add script to your HTML
-<script src="./script.js"></script>
+<script src="./chaiui.js"></script>
 
 3. Start using classes
 <div class="chai-bg-[#097FE8] chai-p-4">
