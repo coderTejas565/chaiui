@@ -1,7 +1,5 @@
-Add this line at the top later:
 
 ⭐ Star this repo if you found it useful
-
 
 # chAiUI – Style at Runtime
 
@@ -108,4 +106,4 @@ Convert into npm package
 
 ## Author
 
-Built with ❤️ by Tejas
+Built with by Tejas
