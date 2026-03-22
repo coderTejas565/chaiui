@@ -185,4 +185,17 @@ function applyChaiStyles(){
 
 
 
-window.onload = applyChaiStyles
+function initChaiUI() {
+    applyChaiStyles();
+}
+
+// For browser
+if (typeof window !== "undefined") {
+    window.ChaiUI = { init: initChaiUI };
+}
+
+// For npm / module
+if (typeof module !== "undefined") {
+    module.exports = { initChaiUI };
+}
+

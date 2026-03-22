@@ -1,0 +1,35 @@
+{
+  "name": "chaiui-js",
+  "version": "1.0.0",
+  "description": "Utility-first CSS engine that works at runtime using JavaScript",
+  "main": "chaiui.js",
+  "exports": {
+    ".": "./chaiui.js"
+  },
+  "files": [
+    "chaiui.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "css",
+    "utility-css",
+    "tailwind-like",
+    "javascript",
+    "runtime-css",
+    "chaiui"
+  ],
+  "author": "Tejas",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderTejas565/chaiui.git"
+  },
+  "homepage": "https://github.com/coderTejas565/chaiui#readme",
+  "bugs": {
+    "url": "https://github.com/coderTejas565/chaiui/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

@@ -1,3 +1,20 @@
+1. Use via CDN (easiest)
+
+<script src="https://unpkg.com/chaiui-js"></script>
+<script>
+  ChaiUI.init();
+</script>
+
+2. Use via npm (modern projects)
+npm install chaiui-js
+
+import { initChaiUI } from "chaiui-js";
+initChaiUI();
+
+Live Demo
+
+👉 https://your-demo-link.com
+
 
 ⭐ Star this repo if you found it useful
 
@@ -106,4 +123,4 @@ Convert into npm package
 
 ## Author
 
-Built with by Tejas
+Built with ❤️ by Tejas
