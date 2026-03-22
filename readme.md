@@ -13,7 +13,7 @@ initChaiUI();
 
 Live Demo
 
-👉 https://your-demo-link.com
+👉 https://chaiuidocs.vercel.app/
 
 
 ⭐ Star this repo if you found it useful
